@@ -1,0 +1,18 @@
+.avatar{
+    width: 150px;
+}
+.card{
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    background: #ddebf8;
+    border-bottom: 8px solid #d8cefe; 
+    justify-content: space-around;
+    width: 400px;
+    margin:0px auto;
+    text-decoration-color: #ddebf8;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.details{
+    text-align: center;
+}
